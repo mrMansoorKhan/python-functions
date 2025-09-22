@@ -3,4 +3,6 @@ def calc_sum(a,b):
     print(sum)
     return sum
 
-calc_sum(3,5);
+calc_sum(3,5)
+
+calc_sum(8.88 , 23.10)
